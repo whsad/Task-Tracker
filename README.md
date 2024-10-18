@@ -70,3 +70,5 @@ java TaskCliApp list done
 
 - The tasks are stored in `tasks.json` located in the project directory.
 - If the JSON file is missing, the application creates one on startup.
+
+*This is a solution to a project challenge in* [roadmap.sh](https://roadmap.sh/projects/task-tracker)
