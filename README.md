@@ -1,7 +1,5 @@
 # Task Tracker
 
-------
-
 Task Tracker is a command-line application designed to help you track and manage your tasks efficiently. It supports creating, updating, deleting, and listing tasks, as well as marking tasks as "in-progress" or "done." Tasks are stored as JSON objects in a file for persistence.
 
 ## Features
